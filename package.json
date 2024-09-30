@@ -13,7 +13,6 @@
     "@faker-js/faker": "^8.4.1",
     "@types/node": "^20.12.2",
     "@types/pg": "^8.11.4",
-    "@types/supertest": "^6.0.2",
     "@typescript-eslint/eslint-plugin": "^7.4.0",
     "@typescript-eslint/parser": "^7.4.0",
     "@vitest/coverage-v8": "^1.4.0",
@@ -21,7 +20,6 @@
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "prettier": "^3.2.5",
-    "supertest": "^6.3.4",
     "typescript": "^5.5.4",
     "vite-tsconfig-paths": "^4.3.2",
     "vitest": "^2.1.1"
